@@ -4,8 +4,7 @@
 #include<stdio.h>
 main()
 {
-primtf("hello world");
-
+printf("hello world");
 return 0;
 
 }
